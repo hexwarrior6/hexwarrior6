@@ -32,3 +32,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: user
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
